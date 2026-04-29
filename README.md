@@ -1,6 +1,9 @@
 # Fake News Detection Model
 A supervised machine learning model that classifies news articles as real or fake using  Logistic Regression and Natural Language Processing (NLP).
 
+# Built
+June 2025 - Google Colab
+
 ## Results
 Accuracy  | 98.75% 
 Precision | 99.08% 
